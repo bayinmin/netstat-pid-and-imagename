@@ -10,10 +10,12 @@ eg. --> python nestats-namedpid.py
 
 # sample output
 
-Proto   "Local Address"   " Foreign Address"    " PID"    "Image Name" 
-==============================================================================
+Proto   "Local Address"   " Foreign Address"    "PID"    "Image Name" 
+
 TCP   0.0.0.0:135   0.0.0.0:0   LISTENING   264   svchost.exe
+
 TCP   0.0.0.0:443   0.0.0.0:0   LISTENING   4128   vmware-hostd.exe
+
 
 # note
 
